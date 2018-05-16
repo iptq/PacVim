@@ -1,3 +1,5 @@
+## Forked for code refactoring.
+
 # PacVim
 
 PacVim is a game that teaches you vim commands.
@@ -51,7 +53,7 @@ $ pacvim 8 n
 To Uninstall, navigate to the folder where you cloned this repo, and type `make uninstall` <br>
 Note: this game may not install/compile properly without gcc version 4.8.X or higher
 
-#How To Play
+# How To Play
 
 The objective of PacVim is very similar to PacMan.
 You must run over all the characters on the screen while avoiding the ghosts (red `G`).
