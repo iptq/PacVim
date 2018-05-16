@@ -5,3 +5,5 @@ pacvim
 *.swo
 .deps
 *.o
+.vscode
+build
